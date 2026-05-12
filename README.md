@@ -11,7 +11,7 @@ https://jvm87.github.io/mathom-source/
 Current package:
 
 ```text
-plugin.video.mathom-1.0.3.zip
+plugin.video.mathom-1.0.4.zip
 ```
 
 ## English
@@ -50,7 +50,7 @@ Mathom is useful if you want to:
 4. Give the source a name, for example `Mathom`.
 5. Go to **Add-ons -> Install from zip file**.
 6. Open the `Mathom` source.
-7. Select `plugin.video.mathom-1.0.3.zip`.
+7. Select `plugin.video.mathom-1.0.4.zip`.
 8. Open Mathom and configure your download folder in the add-on settings.
 
 ### Important Notes
@@ -97,7 +97,7 @@ Mathom puede ser útil si quieres:
 4. Ponle un nombre a la fuente, por ejemplo `Mathom`.
 5. Ve a **Add-ons -> Instalar desde archivo .zip**.
 6. Abre la fuente `Mathom`.
-7. Selecciona `plugin.video.mathom-1.0.3.zip`.
+7. Selecciona `plugin.video.mathom-1.0.4.zip`.
 8. Abre Mathom y configura la carpeta de descarga en los ajustes del add-on.
 
 ### Notas Importantes
